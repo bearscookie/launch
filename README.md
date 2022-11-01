@@ -1,2 +1,2 @@
 # launch
-a launch layout
+A launch layout project based on vue2.
